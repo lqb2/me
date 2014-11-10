@@ -11,7 +11,7 @@
 
 	body, input, select, textarea {
 		color: #444;
-		font-family: Arial, Helvetica, sans-serif;
+		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 13pt;
 		font-weight: normal;
 		line-height: 1.65em;
@@ -902,7 +902,7 @@
 	#banner {
 		background: #f6f6f6;
 		padding: 8em 0;
-		text-align: center;
+		text-align: left;
 	}
 
 		#banner :last-child {
@@ -910,9 +910,9 @@
 		}
 
 		#banner h2 {
-			font-size: 4em;
+			font-size: 8em;
 			line-height: 1em;
-			margin: 0 0 0.5em 0;
+			margin: 0 0 .5em 0;
 			padding: 0;
 		}
 
